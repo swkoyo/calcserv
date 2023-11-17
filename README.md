@@ -37,7 +37,7 @@ Returns the total, minimum, maximum, and average of a list of prices. Rounds all
 - `data`: An array of float numbers. It must contain at least one item. The items must be greater than 0.0.
 
 ##### Example
-```jsonsum
+```json
 {
     "data": [
         2.33,
