@@ -70,3 +70,6 @@ Returns the total, minimum, maximum, and average of a list of prices. Rounds all
     "avg": 4.41
 }
 ```
+# UML
+
+![calcserv](https://github.com/swkoyo/calcserv/assets/10441291/34de151a-551c-40a5-a70f-63a83c424521)
