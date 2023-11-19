@@ -5,3 +5,9 @@ build:
 
 run: build
 	./${BINARY_NAME}
+
+dependencies:
+	go mod install
+
+dev:
+	go run main.go

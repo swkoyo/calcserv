@@ -20,6 +20,12 @@ The service will run on port `3000` by default. To use a different port, pass a 
 PORT=4000 ./calcserv
 ```
 
+You can also run this service directly by installing the dependencies and executing the `main.go` file. You'll need golang installed.
+```bash
+go mod install
+go run main.go
+```
+
 To check if the service is running properly, call the `/health` endpoint.
 
 ```bash
